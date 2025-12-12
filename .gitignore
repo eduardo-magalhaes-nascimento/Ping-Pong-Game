@@ -1,0 +1,15 @@
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.dll
+*.lib
+
+# VSCode
+.vscode/
+
+# Other
+/.idea/
+/.vs/
+dist/
+build/
